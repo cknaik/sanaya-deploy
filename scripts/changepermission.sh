@@ -1,0 +1,1 @@
+chown apache:apache -R /var/www/html
